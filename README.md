@@ -2,19 +2,19 @@
 
 **Professional IBIS Model Verification Suite for VS Code**
 
-[![Version](https://img.shields.io/badge/version-1.0.5-blue.svg)](https://github.com/Open-DDR/ibis)
+[![Version](https://img.shields.io/badge/version-1.0.6-blue.svg)](https://github.com/Open-DDR/ibis)
 [![IBIS 7.0](https://img.shields.io/badge/IBIS-7.0%20Compatible-green.svg)](https://ibis.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ## 📥 **Ready-to-Install Binary**
 
-This repository contains the pre-built IBIS Simulator extension (`ibis-simulator-1.0.5.vsix`) ready for immediate installation in VS Code.
+This repository contains the pre-built IBIS Simulator extension (`ibis-simulator-1.0.6.vsix`) ready for immediate installation in VS Code.
 
 ### 🚀 **Quick Install**
 
 ```bash
 # Install the extension
-code --install-extension ibis-simulator-1.0.5.vsix
+code --install-extension ibis-simulator-1.0.6.vsix
 
 # Restart VS Code
 code --relaunch
@@ -36,7 +36,7 @@ code --relaunch
 
 ## 🎯 **Quick Start**
 
-1. **Install**: `code --install-extension ibis-simulator-1.0.5.vsix`
+1. **Install**: `code --install-extension ibis-simulator-1.0.6.vsix`
 2. **Open Command Palette**: `Ctrl+Shift+P`
 3. **Type**: "IBIS" to see all available commands
 4. **Try**: "IBIS: Open Enhanced GUI" for the main interface
@@ -49,8 +49,8 @@ code --relaunch
 
 ## 📦 **Package Information**
 
-- **File**: `ibis-simulator-1.0.5.vsix` (646KB)
-- **Version**: 1.0.5
+- **File**: `ibis-simulator-1.0.6.vsix` (672KB)
+- **Version**: 1.0.6
 - **Build Date**: October 2025
 - **IBIS Spec**: 7.0 Compatible
 
